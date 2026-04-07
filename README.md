@@ -32,7 +32,7 @@ JavaScript webpage for COMP 484 homework 9. Date formatting, number checking, an
 
 ## Screenshot
 
-![img.png](img.png)
+![img.png](hw9.png)
 
 ---
 
